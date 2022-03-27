@@ -1,6 +1,7 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
+    margin-bottom: 100px;
     p{
         font-size: 13px;
         color: #b8b8d4;
@@ -51,5 +52,5 @@ export const Container = styled.div`
         text-decoration: none;
         padding: 20px 40px;
         color: #b8b8d4;
-    }
+   }
 `;

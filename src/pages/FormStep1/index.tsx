@@ -32,7 +32,7 @@ export const FormStep1 = () => {
     return(
         <Theme>
             <C.Container>
-                <p>Passo 1/3 - {state.currentStep}</p>
+                <p>Passo 1/3</p>
                 <h1>Vamos Começar com o seu nome</h1>
                 <p>Preencha o campo abaixo com o seu campo completo.</p>
 
